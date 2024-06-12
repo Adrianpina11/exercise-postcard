@@ -27,7 +27,6 @@ body {
 .postcard-header h1 {
 	width: 30px;
 	margin: 0;
-	display: flex;
 }
 
 .postcard-body {
@@ -47,6 +46,7 @@ body {
 input {
 	border: none;
 	border-bottom: 10px;
+	text-decoration: underline;
 }
 .postcard-footer {
 	text-align: center;
